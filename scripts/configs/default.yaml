@@ -1,0 +1,1 @@
+rssm: {ensemble: 1, hidden: 200, deter: 200, stoch: 32, discrete: 32,  norm: none, std_act: sigmoid2, min_std: 0.1}

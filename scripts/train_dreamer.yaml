@@ -1,0 +1,4 @@
+defaults:
+  - configs/default
+  - configs: ${configs}  # select the sub-configs for different benchmarks
+  - configs/agents: dreamer_v1  # select the configs for agent
